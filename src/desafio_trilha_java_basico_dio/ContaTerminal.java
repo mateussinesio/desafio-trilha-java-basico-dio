@@ -1,4 +1,4 @@
-package br.com.mateus_sinesio.desafio_trilha_java_basico_dio;
+package desafio_trilha_java_basico_dio;
 
 import java.util.Scanner;
 import java.util.Locale;
